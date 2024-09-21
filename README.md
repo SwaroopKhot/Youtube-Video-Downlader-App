@@ -1,2 +1,2 @@
 # Youtube-Video-Downlader-App
-Kivy | KivyMD | pytube | desc - Download any Youtube video/audio of different quality.
+Android App with Python using: Kivy | KivyMD | pytube | desc - Download any Youtube video/audio of different quality.
